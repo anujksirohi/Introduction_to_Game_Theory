@@ -10,7 +10,7 @@ Sequential games, sub-game perfect Nash equilibrium.
 Inefficiency of Equilibria: i) Price of Anarchy, ii) Price of Stability. Selfish routing games, Network Design Games. Network formation games: i) pairwise stability ii) Nash stability iii) strong stability, iv) efficiency. Some famous examples: Co-author example, connection models.
 
 ## Problem Set
-The first problem set for self [practice](https://github.com/anujksirohi/Evolutionary_Game_Theory/blob/main/Problem-set-1.pdf).
+The first problem set for self [practice](https://github.com/anujksirohi/Introduction_to_Game_Theory-/blob/master/Problem-set-1.pdf).
 
 # Very Little Evolutionary Game Theory
 
