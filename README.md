@@ -1,4 +1,4 @@
-# MTL763 (Introduction to Game Theory)
+# MTL763 (Introduction to Game Theory) anuj
 ## Content:
 Two player zero-sum games: Optimal strategies, value of the game, existence of saddle point equilibrium using Brouwer’s fixed point theorem, graphical method, Linear programming formulations.
 
