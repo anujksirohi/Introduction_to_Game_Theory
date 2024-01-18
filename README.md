@@ -11,6 +11,7 @@ Inefficiency of Equilibria: i) Price of Anarchy, ii) Price of Stability. Selfish
 
 ## Problem Set
 The first problem set for self [practice](https://github.com/anujksirohi/Introduction_to_Game_Theory-/blob/master/Problem-set-1.pdf).
+# Game Theory in Machine Learing 
 
 # Very Little Evolutionary Game Theory
 
@@ -39,7 +40,7 @@ Lecture 4. The evolution of families<br>
 Lecture 5. The evolution of societies
 
 
-# #Homework
+##Homework
 
 Students can submit homework to me via email or just give me paper in class. You are welcome to work in groups. Just submit your own individual solution. There is one problem each week, listed below.
 
