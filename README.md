@@ -39,7 +39,7 @@ Lecture 4. The evolution of families<br>
 Lecture 5. The evolution of societies
 
 
-# Homework
+# #Homework
 
 Students can submit homework to me via email or just give me paper in class. You are welcome to work in groups. Just submit your own individual solution. There is one problem each week, listed below.
 
