@@ -15,7 +15,7 @@ The first problem set for self [practice](https://github.com/anujksirohi/Introdu
 # Game Theory in Machine Learing
 1. Talk by Prof . Michael Jordan [Link](https://www.youtube.com/watch?v=nPV2nPH6uCw) 
 2. Teaching by Prof. Constantinos Daskalakis [Link](http://people.csail.mit.edu/costis/) 
-2. Teaching by Prof. Aaron Roth[Link](https://www.cis.upenn.edu/~aaroth/) 
+2. Teaching by Prof. Aaron Roth [Link](https://www.cis.upenn.edu/~aaroth/) 
 
 # Very Little Evolutionary Game Theory
 
