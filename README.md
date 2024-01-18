@@ -11,7 +11,9 @@ Inefficiency of Equilibria: i) Price of Anarchy, ii) Price of Stability. Selfish
 
 ## Problem Set
 The first problem set for self [practice](https://github.com/anujksirohi/Introduction_to_Game_Theory-/blob/master/Problem-set-1.pdf).
-# Game Theory in Machine Learing 
+
+# Game Theory in Machine Learing
+1. Talk by Prof . Michael Jordan [Link](https://www.youtube.com/watch?v=nPV2nPH6uCw)  
 
 # Very Little Evolutionary Game Theory
 
